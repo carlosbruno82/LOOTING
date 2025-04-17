@@ -5,7 +5,7 @@
 ## Intuito deste estudo:
 Desenvolver um baú interativo, permitindo a interação por meio do mouse ou toque em telas sensíveis. Além disso, o baú será capaz de gerar saques, proporcionando uma experiência dinâmica e envolvente para o usuário.
 
-<img src="https://github.com/carlosbruno82/To-Space-And-Beyond/blob/main/github/010_looting_module_finished_chest.gif">
+<img src="https://github.com/carlosbruno82/LOOTING/blob/main/github/010_looting_module_finished_chest.gif">
 
 ## O que aprendi neste módulo:
 
